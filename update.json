@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "download_url": "https://github.com/LaRa-BoY/vk-font-installer-updates/releases/latest/download/vk_font_installer.exe",
-  "changelog": "✅ Added font preview feature\n📦 Bug fixes\n🎨 Improved UI with welcome screen"
+  "changelog": "✅ Added font preview feature\n📦 Bug fixes\n⚡ Faster font loading and display"
 }
