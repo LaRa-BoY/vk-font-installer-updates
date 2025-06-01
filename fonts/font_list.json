@@ -1,1 +1,56 @@
-
+[
+    {
+        "name": "AIRMOLEQ",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/AIRMOLEQ.TTF",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "Adventure",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/Adventure.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "Akvaléir_Normal_v2007",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/Akvaléir_Normal_v2007.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "Alexandra Zeferino One",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/Alexandra Zeferino One.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "AlfredDrake",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/AlfredDrake.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "alien1",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/alien1.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "allman1",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/allman1.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "allnig11",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/allnig11.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    },
+    {
+        "name": "als-script.regular",
+        "file_url": "https://raw.githubusercontent.com/LaRa-BoY/vk-font-installer-updates/main/fonts/als-script.regular.ttf",
+        "preview_text": "The quick brown fox jumps over the lazy dog",
+        "language": "English"
+    }
+]
